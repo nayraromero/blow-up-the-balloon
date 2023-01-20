@@ -41,7 +41,7 @@ function increaseSize() {
 
 function handleReduceSize() {
   if (size > 200 && balloon.classList.contains("red")) {
-    size = size - 20;
+    size = size - 5;
     balloon.style.height = `${size}px`;
     balloon.style.width = `${size}px`;
     balloon.classList.remove("red");
@@ -49,7 +49,7 @@ function handleReduceSize() {
     balloon.classList.remove("blue");
     balloon.classList.add("blue");
   } else if (size > 200 && balloon.classList.contains("blue")) {
-    size = size - 20;
+    size = size - 5;
     balloon.style.height = `${size}px`;
     balloon.style.width = `${size}px`;
     balloon.classList.remove("red");
@@ -57,7 +57,7 @@ function handleReduceSize() {
     balloon.classList.remove("blue");
     balloon.classList.add("green");
   } else if (size > 200 && balloon.classList.contains("green")) {
-    size = size - 20;
+    size = size - 5;
     balloon.style.height = `${size}px`;
     balloon.style.width = `${size}px`;
     balloon.classList.remove("red");
