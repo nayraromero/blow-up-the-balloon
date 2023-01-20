@@ -1,5 +1,7 @@
 # Explota el Globo
 
+La creadora de este proyecto ha sido Nayra Romero - @nayraromero
+
 ## 🚀 Introducción y 📝 requerimientos
 
 En este repositorio puedes encontrar un proyecto generado en **[Piscine Discovery Women's Edition](https://www.fundaciontelefonica.com/noticias/piscine-discovery-womens-edition-formacion-campus-42-talento-digital-femenino/) en 42 Madrid**. 
